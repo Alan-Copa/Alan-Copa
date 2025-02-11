@@ -23,9 +23,6 @@ My name is Alan Copa. I am a Master Student in Financial Technology and Computin
 ![](https://img.shields.io/badge/Tools-JetBrains_Suite-informational?style=flat&logo=jetbrains&logoColor=white&color=0f80c0)
 ![](https://img.shields.io/badge/Tools-Postman-informational?style=flat&logo=postman&logoColor=white&color=0f80c0)
 ![](https://img.shields.io/badge/Tools-MongoDB-informational?style=flat&logo=mongodb&logoColor=white&color=0f80c0)
-![](https://img.shields.io/badge/Microsoft-PowerBI-FFE800)
-![](https://img.shields.io/badge/Microsoft-PowerApps-C658F7)
-![](https://img.shields.io/badge/Microsoft-PowerAutomate-00B9FF)
 
 ## :chart_with_upwards_trend: GitHub Stats
 
@@ -35,7 +32,7 @@ My name is Alan Copa. I am a Master Student in Financial Technology and Computin
 </div>
 
 ## :gear: Projects
-All the descriptions of my applications, projects (along with some demos), and competitions I've participated in can be found on [my website](https://aagcopa-portfolio.vercel.app/).
+All the descriptions of my projects (along with some demos), pitch decks, business plans can be found on [my website](https://aagcopa-portfolio.vercel.app/).
 <!--
 **Alan-Copa/Alan-Copa** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
