@@ -1,6 +1,6 @@
 # Hi there :wave:
 
-My name is Alan Copa. I am a Master Student in Financial Technology and Computing @ USI University I currently live in Lugano, Switzerland.
+My name is Alan Copa. I am a Master Student in Financial Technology and Computing @ USI University
 
 ## :wrench: Technologies and Tools
 
