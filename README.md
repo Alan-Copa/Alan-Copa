@@ -9,6 +9,9 @@ Tech-driven finance enthusiast with a solid foundation in informatics focusing o
 ## :gear: Projects
 All the descriptions of my projects (along with some demos), pitch decks, business plans can be found on [my website](https://aagcopa-portfolio.vercel.app/).
 
+## Profiles 🌐  
+[LinkedIn 🔗](https://www.linkedin.com/in/alan-copa-03776929b)
+
 ## :wrench: Technologies and Tools
 
 ![](https://img.shields.io/badge/OS-Linux-informational?style=flat&logo=linux&logoColor=white&color=2bbc8a)
