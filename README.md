@@ -28,8 +28,7 @@ My name is Alan Copa. I am a Master Student in Financial Technology and Computin
 ![](https://raw.githubusercontent.com/Alan-Copa/github-stats/master/generated/overview.svg#gh-dark-mode-only)
 ![](https://raw.githubusercontent.com/Alan-Copa/github-stats/master/generated/overview.svg#gh-light-mode-only)
 
-![](https://raw.githubusercontent.com/Alan-Copa/github-stats/master/generated/languages.svg#gh-dark-mode-only)
-![](https://raw.githubusercontent.com/Alan-Copa/github-stats/master/generated/languages.svg#gh-light-mode-only)
+
 
 ## :gear: Projects
 All the descriptions of my projects (along with some demos), pitch decks, business plans can be found on [my website](https://aagcopa-portfolio.vercel.app/).
