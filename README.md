@@ -17,6 +17,8 @@ Tech-driven finance enthusiast with a solid foundation in informatics focusing o
 ![](https://img.shields.io/badge/Code-HTML5-informational?style=flat&logo=html5&logoColor=white&color=ee672f)
 ![](https://img.shields.io/badge/Code-CSS3-informational?style=flat&logo=css3&logoColor=white&color=ee672f)
 ![](https://img.shields.io/badge/Code-Javascript-informational?style=flat&logo=javascript&logoColor=white&color=ee672f)
+![TypeScript](https://img.shields.io/badge/Code-TypeScript-informational?style=flat&logo=typescript&logoColor=white&color=ee672f)
+![R](https://img.shields.io/badge/Code-R-informational?style=flat&logo=r&logoColor=white&color=ee672f)
 ![](https://img.shields.io/badge/Tools-Visual_Studio_Code-informational?style=flat&logo=visual-studio-code&logoColor=white&color=0f80c0)
 ![](https://img.shields.io/badge/Tools-Git-informational?style=flat&logo=git&logoColor=white&color=0f80c0)
 ![](https://img.shields.io/badge/Tools-GitLab-informational?style=flat&logo=git&logoColor=white&color=orange)
@@ -27,6 +29,8 @@ Tech-driven finance enthusiast with a solid foundation in informatics focusing o
 ![](https://img.shields.io/badge/Tools-JetBrains_Suite-informational?style=flat&logo=jetbrains&logoColor=white&color=0f80c0)
 ![](https://img.shields.io/badge/Tools-Postman-informational?style=flat&logo=postman&logoColor=white&color=0f80c0)
 ![](https://img.shields.io/badge/Tools-MongoDB-informational?style=flat&logo=mongodb&logoColor=white&color=0f80c0)
+
+
 
 ## :chart_with_upwards_trend: GitHub Stats
 ![](https://raw.githubusercontent.com/Alan-Copa/github-stats/master/generated/overview.svg#gh-dark-mode-only)
