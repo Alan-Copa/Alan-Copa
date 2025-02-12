@@ -27,9 +27,8 @@ My name is Alan Copa. I am a Master Student in Financial Technology and Computin
 ## :chart_with_upwards_trend: GitHub Stats
 ![](https://raw.githubusercontent.com/Alan-Copa/github-stats/master/generated/overview.svg#gh-dark-mode-only)
 ![](https://raw.githubusercontent.com/Alan-Copa/github-stats/master/generated/overview.svg#gh-light-mode-only)
-
-![](https://raw.githubusercontent.com/username/github-stats/master/generated/languages.svg#gh-dark-mode-only)
-![](https://raw.githubusercontent.com/username/github-stats/master/generated/languages.svg#gh-light-mode-only)
+![](https://raw.githubusercontent.com/Alan-Copa/github-stats/master/generated/languages.svg#gh-dark-mode-only)
+![](https://raw.githubusercontent.com/Alan-Copa/github-stats/master/generated/languages.svg#gh-light-mode-only)
 
 
 ## :gear: Projects
