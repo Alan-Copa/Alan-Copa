@@ -6,8 +6,10 @@ My name is Alan Copa. I am a Master Student in Financial Technology and Computin
 
 Tech-driven finance enthusiast with a solid foundation in informatics focusing on software development, machine learning, and blockchain technology. Currently pursuing a Master’s in Financial Technology and Computing at USI, backed by leadership experience as a Swiss Army sergeant. Passionate about the intersection of finance and technology, AI solutions, cryptocurrencies, decentralized finance, space exploration, and geopolitics.
 
-## :wrench: Technologies and Tools
+## :gear: Projects
+All the descriptions of my projects (along with some demos), pitch decks, business plans can be found on [my website](https://aagcopa-portfolio.vercel.app/).
 
+## :wrench: Technologies and Tools
 
 ![](https://img.shields.io/badge/OS-Linux-informational?style=flat&logo=linux&logoColor=white&color=2bbc8a)
 ![](https://img.shields.io/badge/Code-Python-informational?style=flat&logo=python&logoColor=white&color=ee672f)
@@ -55,9 +57,6 @@ Tech-driven finance enthusiast with a solid foundation in informatics focusing o
 ![](https://raw.githubusercontent.com/Alan-Copa/github-stats/master/generated/languages.svg#gh-dark-mode-only)
 ![](https://raw.githubusercontent.com/Alan-Copa/github-stats/master/generated/languages.svg#gh-light-mode-only)
 
-
-## :gear: Projects
-All the descriptions of my projects (along with some demos), pitch decks, business plans can be found on [my website](https://aagcopa-portfolio.vercel.app/).
 
 <!--
 **Alan-Copa/Alan-Copa** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
