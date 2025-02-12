@@ -23,6 +23,7 @@ Tech-driven finance enthusiast with a solid foundation in informatics focusing o
 ![](https://img.shields.io/badge/Code-LaTeX-informational?style=flat&logo=latex&logoColor=white&color=ee672f)
 ![](https://img.shields.io/badge/Code-MySQL-informational?style=flat&logo=mysql&logoColor=white&color=ee672f)
 
+![React](https://img.shields.io/badge/Framework-React-informational?style=flat&logo=react&logoColor=white&color=61DAFB)
 ![Vue.js](https://img.shields.io/badge/Framework-Vue.js-informational?style=flat&logo=vue.js&logoColor=white&color=42b883)
 ![Vuetify](https://img.shields.io/badge/Framework-Vuetify-informational?style=flat&logo=vuetify&logoColor=white&color=1867C0)
 ![Node.js](https://img.shields.io/badge/Framework-Node.js-informational?style=flat&logo=node.js&logoColor=white&color=68A063)
