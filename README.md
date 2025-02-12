@@ -2,6 +2,10 @@
 
 My name is Alan Copa. I am a Master Student in Financial Technology and Computing @ USI University
 
+# About Me :star:
+
+Tech-driven finance enthusiast with a solid foundation in informatics focusing on software development, machine learning, and blockchain technology. Currently pursuing a Master’s in Financial Technology and Computing at USI, backed by leadership experience as a Swiss Army sergeant. Passionate about the intersection of finance and technology, AI solutions, cryptocurrencies, decentralized finance, space exploration, and geopolitics.
+
 ## :wrench: Technologies and Tools
 
 
