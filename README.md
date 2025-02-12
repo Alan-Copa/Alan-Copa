@@ -25,23 +25,12 @@ My name is Alan Copa. I am a Master Student in Financial Technology and Computin
 ![](https://img.shields.io/badge/Tools-MongoDB-informational?style=flat&logo=mongodb&logoColor=white&color=0f80c0)
 
 ## :chart_with_upwards_trend: GitHub Stats
-
-<div align="center">
-  <img src="https://github.com/Alan-Copa/github-stats/blob/master/generated/overview.svg" />
-  <img src="https://github.com/Alan-Copa/github-stats/blob/master/generated/languages.svg" />
-</div>
+![](https://raw.githubusercontent.com/username/github-stats/master/generated/overview.svg#gh-dark-mode-only)
+![](https://raw.githubusercontent.com/username/github-stats/master/generated/overview.svg#gh-light-mode-only)
 
 ## :gear: Projects
 All the descriptions of my projects (along with some demos), pitch decks, business plans can be found on [my website](https://aagcopa-portfolio.vercel.app/).
 
-<div align="center">
-  <a href="https://github.com/anuraghazra/convoychat">
-  <img height=200 align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=Alan-Copa&layout=compact&langs_count=8&card_width=320&theme=onedark&hide_border=true&bg_color=00000000" />
-</a>
-  <a href="https://github.com/anuraghazra/github-readme-stats">
-  <img height=200 align="center" src="https://github-readme-stats.vercel.app/api?username=Alan-Copa&theme=onedark&hide_rank=true&layout=compact&hide_border=true&bg_color=00000000" />
-</a>
-</div> 
 <!--
 **Alan-Copa/Alan-Copa** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
