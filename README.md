@@ -7,10 +7,10 @@ My name is Alan Copa. I am a Master Student in Financial Technology and Computin
 Tech-driven finance enthusiast with a solid foundation in informatics focusing on software development, machine learning, and blockchain technology. Currently pursuing a Master’s in Financial Technology and Computing at USI, backed by leadership experience as a Swiss Army sergeant. Passionate about the intersection of finance and technology, AI solutions, cryptocurrencies, decentralized finance, space exploration, and geopolitics.
 
 ## :gear: Projects
-All the descriptions of my projects (along with some demos), pitch decks, business plans can be found on [my website](https://aagcopa-portfolio.vercel.app/).
+All the descriptions of my projects (along with some demos), pitch decks, business plans can be found on [my website](https://alancopa.ch).
 
 ## Profiles 🌐  
-[LinkedIn 🔗](https://www.linkedin.com/in/alan-copa-03776929b)
+[LinkedIn 🔗](https://www.linkedin.com/in/alan-copa)
 
 ## :wrench: Technologies and Tools
 
