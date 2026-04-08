@@ -44,11 +44,11 @@ All the descriptions of my projects (along with some demos), pitch decks, busine
 ![](https://img.shields.io/badge/Tools-GitLab-informational?style=flat&logo=git&logoColor=white&color=0f80c0)
 
 ![Docker](https://img.shields.io/badge/Tools-Docker-informational?style=flat&logo=docker&logoColor=white&color=2496ED)
-<!-- 
-![Kubernetes](https://img.shields.io/badge/Tools-Kubernetes-informational?style=flat&logo=kubernetes&logoColor=white&color=326CE5)
+
+ <!-- ![Kubernetes](https://img.shields.io/badge/Tools-Kubernetes-informational?style=flat&logo=kubernetes&logoColor=white&color=326CE5)
+![Google Cloud](https://img.shields.io/badge/Tools-Google_Cloud-informational?style=flat&logo=google-cloud&logoColor=white&color=4285F4) -->
+
 ![AWS](https://img.shields.io/badge/Tools-AWS-informational?style=flat&logo=amazon-aws&logoColor=white&color=232F3E)
-![Google Cloud](https://img.shields.io/badge/Tools-Google_Cloud-informational?style=flat&logo=google-cloud&logoColor=white&color=4285F4)
--->
 
 ![Ethereum](https://img.shields.io/badge/Blockchain-Ethereum-informational?style=flat&logo=ethereum&logoColor=white&color=3C3C3D)
 ![Smart Contracts](https://img.shields.io/badge/Blockchain-Smart_Contracts-informational?style=flat&logo=solidity&logoColor=white&color=363636)
