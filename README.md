@@ -4,7 +4,14 @@ My name is Alan Copa. I am a Master Student in Financial Technology and Computin
 
 # About Me :star:
 
-Tech-driven finance enthusiast with a solid foundation in informatics focusing on software development, machine learning, and blockchain technology. Currently pursuing a Master’s in Financial Technology and Computing at USI, backed by leadership experience as a Swiss Army sergeant. Passionate about the intersection of finance and technology, AI solutions, cryptocurrencies, decentralized finance, space exploration, and geopolitics.
+Software engineer who ended up in finance and decided to stay.
+Currently finishing an MSc in Financial Technology and Computing at USI.
+
+I have led a startup, trained as a Swiss Army sergeant and gotten deep into finance, agentic AI, decentralized systems and digital identity.
+
+I care about financial technology, trust infrastructure and what happens when you apply rigorous engineering to problems that actually matter.
+
+Also: astrophysics. Love it.
 
 ## :gear: Projects
 All the descriptions of my projects (along with some demos), pitch decks, business plans can be found on [my website](https://alancopa.ch).
@@ -27,18 +34,21 @@ All the descriptions of my projects (along with some demos), pitch decks, busine
 ![](https://img.shields.io/badge/Code-MATLAB-informational?style=flat&logo=matrix&logoColor=white&color=ee672f)
 ![](https://img.shields.io/badge/Code-LaTeX-informational?style=flat&logo=latex&logoColor=white&color=ee672f)
 ![](https://img.shields.io/badge/Code-MySQL-informational?style=flat&logo=mysql&logoColor=white&color=ee672f)
+![Solidity](https://img.shields.io/badge/Code-Solidity-informational?style=flat&logo=solidity&logoColor=white&color=363636)
 
 ![React](https://img.shields.io/badge/Framework-React-informational?style=flat&logo=react&logoColor=white&color=61DAFB)
 ![Vue.js](https://img.shields.io/badge/Framework-Vue.js-informational?style=flat&logo=vue.js&logoColor=white&color=42b883)
 ![Vuetify](https://img.shields.io/badge/Framework-Vuetify-informational?style=flat&logo=vuetify&logoColor=white&color=1867C0)
 ![Node.js](https://img.shields.io/badge/Framework-Node.js-informational?style=flat&logo=node.js&logoColor=white&color=68A063)
 ![Express.js](https://img.shields.io/badge/Framework-Express.js-informational?style=flat&logo=express&logoColor=white&color=000000)
+![FastAPI](https://img.shields.io/badge/Framework-FastAPI-informational?style=flat&logo=fastapi&logoColor=white&color=009688)
 
 ![SQLite](https://img.shields.io/badge/Database-SQLite-informational?style=flat&logo=sqlite&logoColor=white&color=003B57)
 ![](https://img.shields.io/badge/Tools-MongoDB-informational?style=flat&logo=mongodb&logoColor=white&color=0f80c0)
 ![](https://img.shields.io/badge/Tools-VSCode-informational?style=flat&logo=visual-studio-code&logoColor=white&color=0f80c0)
 ![](https://img.shields.io/badge/Tools-JetBrains_Suite-informational?style=flat&logo=jetbrains&logoColor=white&color=0f80c0)
 ![](https://img.shields.io/badge/Tools-Postman-informational?style=flat&logo=postman&logoColor=white&color=0f80c0)
+![Jira](https://img.shields.io/badge/Tools-Jira-informational?style=flat&logo=jira&logoColor=white&color=0052CC)
 ![](https://img.shields.io/badge/Tools-Visual_Studio_Code-informational?style=flat&logo=visual-studio-code&logoColor=white&color=0f80c0)
 ![](https://img.shields.io/badge/Tools-Git-informational?style=flat&logo=git&logoColor=white&color=0f80c0)
 ![](https://img.shields.io/badge/Tools-GitLab-informational?style=flat&logo=git&logoColor=white&color=0f80c0)
@@ -49,6 +59,13 @@ All the descriptions of my projects (along with some demos), pitch decks, busine
 ![Google Cloud](https://img.shields.io/badge/Tools-Google_Cloud-informational?style=flat&logo=google-cloud&logoColor=white&color=4285F4) -->
 
 ![AWS](https://img.shields.io/badge/Tools-AWS-informational?style=flat&logo=amazon-aws&logoColor=white&color=232F3E)
+
+![PyTorch](https://img.shields.io/badge/ML-PyTorch-informational?style=flat&logo=pytorch&logoColor=white&color=EE4C2C)
+![TensorFlow](https://img.shields.io/badge/ML-TensorFlow-informational?style=flat&logo=tensorflow&logoColor=white&color=FF6F00)
+![scikit-learn](https://img.shields.io/badge/ML-scikit--learn-informational?style=flat&logo=scikit-learn&logoColor=white&color=F7931E)
+![NumPy](https://img.shields.io/badge/ML-NumPy-informational?style=flat&logo=numpy&logoColor=white&color=013243)
+![LangChain](https://img.shields.io/badge/ML-LangChain-informational?style=flat&logo=langchain&logoColor=white&color=1C3C3C)
+![Anthropic](https://img.shields.io/badge/AI-Anthropic-informational?style=flat&logo=anthropic&logoColor=white&color=D97757)
 
 ![Ethereum](https://img.shields.io/badge/Blockchain-Ethereum-informational?style=flat&logo=ethereum&logoColor=white&color=3C3C3D)
 ![Smart Contracts](https://img.shields.io/badge/Blockchain-Smart_Contracts-informational?style=flat&logo=solidity&logoColor=white&color=363636)
