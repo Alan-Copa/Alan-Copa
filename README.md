@@ -42,7 +42,12 @@ All the descriptions of my projects (along with some demos), pitch decks, busine
 ![Node.js](https://img.shields.io/badge/Framework-Node.js-informational?style=flat&logo=node.js&logoColor=white&color=68A063)
 ![Express.js](https://img.shields.io/badge/Framework-Express.js-informational?style=flat&logo=express&logoColor=white&color=000000)
 ![FastAPI](https://img.shields.io/badge/Framework-FastAPI-informational?style=flat&logo=fastapi&logoColor=white&color=009688)
+![Flask](https://img.shields.io/badge/Framework-Flask-informational?style=flat&logo=flask&logoColor=white&color=000000)
+![Flask-Limiter](https://img.shields.io/badge/Framework-Flask--Limiter-informational?style=flat&logo=flask&logoColor=white&color=000000)
+![SQLAlchemy](https://img.shields.io/badge/Framework-SQLAlchemy-informational?style=flat&logo=sqlalchemy&logoColor=white&color=D71F00)
+![Alembic](https://img.shields.io/badge/Framework-Alembic-informational?style=flat&logo=python&logoColor=white&color=6BA81E)
 
+![PostgreSQL](https://img.shields.io/badge/Database-PostgreSQL-informational?style=flat&logo=postgresql&logoColor=white&color=4169E1)
 ![SQLite](https://img.shields.io/badge/Database-SQLite-informational?style=flat&logo=sqlite&logoColor=white&color=003B57)
 ![](https://img.shields.io/badge/Tools-MongoDB-informational?style=flat&logo=mongodb&logoColor=white&color=0f80c0)
 ![](https://img.shields.io/badge/Tools-VSCode-informational?style=flat&logo=visual-studio-code&logoColor=white&color=0f80c0)
@@ -52,13 +57,28 @@ All the descriptions of my projects (along with some demos), pitch decks, busine
 ![](https://img.shields.io/badge/Tools-Visual_Studio_Code-informational?style=flat&logo=visual-studio-code&logoColor=white&color=0f80c0)
 ![](https://img.shields.io/badge/Tools-Git-informational?style=flat&logo=git&logoColor=white&color=0f80c0)
 ![](https://img.shields.io/badge/Tools-GitLab-informational?style=flat&logo=git&logoColor=white&color=0f80c0)
+![Vite](https://img.shields.io/badge/Tools-Vite-informational?style=flat&logo=vite&logoColor=white&color=646CFF)
+![ESLint](https://img.shields.io/badge/Tools-ESLint-informational?style=flat&logo=eslint&logoColor=white&color=4B32C3)
+![uv](https://img.shields.io/badge/Tools-uv-informational?style=flat&logo=uv&logoColor=white&color=DE5FE9)
 
 ![Docker](https://img.shields.io/badge/Tools-Docker-informational?style=flat&logo=docker&logoColor=white&color=2496ED)
 
- <!-- ![Kubernetes](https://img.shields.io/badge/Tools-Kubernetes-informational?style=flat&logo=kubernetes&logoColor=white&color=326CE5)
-![Google Cloud](https://img.shields.io/badge/Tools-Google_Cloud-informational?style=flat&logo=google-cloud&logoColor=white&color=4285F4) -->
+![Docker Compose](https://img.shields.io/badge/Tools-Docker_Compose-informational?style=flat&logo=docker&logoColor=white&color=2496ED)
+![Kubernetes](https://img.shields.io/badge/Tools-Kubernetes-informational?style=flat&logo=kubernetes&logoColor=white&color=326CE5)
+![Gunicorn](https://img.shields.io/badge/Tools-Gunicorn-informational?style=flat&logo=gunicorn&logoColor=white&color=499848)
+![GitHub Actions](https://img.shields.io/badge/Tools-GitHub_Actions-informational?style=flat&logo=github-actions&logoColor=white&color=2088FF)
 
-![AWS](https://img.shields.io/badge/Tools-AWS-informational?style=flat&logo=amazon-aws&logoColor=white&color=232F3E)
+![Google Cloud](https://img.shields.io/badge/Cloud-Google_Cloud-informational?style=flat&logo=google-cloud&logoColor=white&color=4285F4)
+![Cloud Run](https://img.shields.io/badge/Cloud-Cloud_Run-informational?style=flat&logo=google-cloud&logoColor=white&color=4285F4)
+![Cloud SQL](https://img.shields.io/badge/Cloud-Cloud_SQL-informational?style=flat&logo=google-cloud&logoColor=white&color=4285F4)
+![Artifact Registry](https://img.shields.io/badge/Cloud-Artifact_Registry-informational?style=flat&logo=google-cloud&logoColor=white&color=4285F4)
+![Secret Manager](https://img.shields.io/badge/Cloud-Secret_Manager-informational?style=flat&logo=google-cloud&logoColor=white&color=4285F4)
+![AWS](https://img.shields.io/badge/Cloud-AWS-informational?style=flat&logo=amazon-aws&logoColor=white&color=232F3E)
+
+![pytest](https://img.shields.io/badge/Testing-pytest-informational?style=flat&logo=pytest&logoColor=white&color=0A9EDC)
+![Vitest](https://img.shields.io/badge/Testing-Vitest-informational?style=flat&logo=vitest&logoColor=white&color=6E9F18)
+![Testing Library](https://img.shields.io/badge/Testing-Testing_Library-informational?style=flat&logo=testing-library&logoColor=white&color=E33332)
+![Playwright](https://img.shields.io/badge/Testing-Playwright-informational?style=flat&logoColor=white&color=2EAD33)
 
 ![PyTorch](https://img.shields.io/badge/ML-PyTorch-informational?style=flat&logo=pytorch&logoColor=white&color=EE4C2C)
 ![TensorFlow](https://img.shields.io/badge/ML-TensorFlow-informational?style=flat&logo=tensorflow&logoColor=white&color=FF6F00)
@@ -66,6 +86,13 @@ All the descriptions of my projects (along with some demos), pitch decks, busine
 ![NumPy](https://img.shields.io/badge/ML-NumPy-informational?style=flat&logo=numpy&logoColor=white&color=013243)
 ![LangChain](https://img.shields.io/badge/ML-LangChain-informational?style=flat&logo=langchain&logoColor=white&color=1C3C3C)
 ![Anthropic](https://img.shields.io/badge/AI-Anthropic-informational?style=flat&logo=anthropic&logoColor=white&color=D97757)
+
+![pandas](https://img.shields.io/badge/Data-pandas-informational?style=flat&logo=pandas&logoColor=white&color=150458)
+![SciPy](https://img.shields.io/badge/Data-SciPy-informational?style=flat&logo=scipy&logoColor=white&color=8CAAE6)
+![QuantStats](https://img.shields.io/badge/Data-QuantStats-informational?style=flat&logo=python&logoColor=white&color=3776AB)
+![yfinance](https://img.shields.io/badge/Data-yfinance-informational?style=flat&logo=python&logoColor=white&color=6001D2)
+![Matplotlib](https://img.shields.io/badge/Data-Matplotlib-informational?style=flat&logo=python&logoColor=white&color=11557C)
+![Seaborn](https://img.shields.io/badge/Data-Seaborn-informational?style=flat&logo=python&logoColor=white&color=444876)
 
 ![Ethereum](https://img.shields.io/badge/Blockchain-Ethereum-informational?style=flat&logo=ethereum&logoColor=white&color=3C3C3D)
 ![Smart Contracts](https://img.shields.io/badge/Blockchain-Smart_Contracts-informational?style=flat&logo=solidity&logoColor=white&color=363636)
