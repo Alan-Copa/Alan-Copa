@@ -4,8 +4,7 @@ My name is Alan Copa. I hold a Master's in Financial Technology and Computing fr
 
 # About Me :star:
 
-Software engineer who ended up in finance and decided to stay.
-Currently finishing an MSc in Financial Technology and Computing at USI.
+Software engineer with a soft spot for finance, but my work goes well beyond it :)
 
 I have led a startup, trained as a Swiss Army sergeant and gotten deep into finance, agentic AI, decentralized systems and digital identity.
 
