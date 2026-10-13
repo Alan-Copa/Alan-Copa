@@ -1,6 +1,6 @@
 # Hi there :wave:
 
-My name is Alan Copa. I am a Master Student in Financial Technology and Computing @ USI University
+My name is Alan Copa. I hold a Master's in Financial Technology and Computing from USI University.
 
 # About Me :star:
 
